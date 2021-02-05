@@ -1,3 +1,4 @@
-fn main() {
-    println!("Hello, world!");
-}
+// use crate::topic;
+pub mod topic;
+
+fn main() {}
